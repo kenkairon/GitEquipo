@@ -15,7 +15,5 @@
         .catch(error => console.error('Error al cargar el archivo HTML:', error));
 }
 
-// Invocar los archivos HTML desde sus carpetas correspondientes        
-// loadHTML('nav', 'templates/navegacion.html');  
-// loadHTML('card', 'templates/card_visita.html'); 
+// Invocar los archivos HTML desde sus carpetas correspondientes
    loadHTML('card', 'templates/footer.html'); 
