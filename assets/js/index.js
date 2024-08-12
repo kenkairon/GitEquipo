@@ -16,4 +16,4 @@
 }
 
 // Invocar los archivos HTML desde sus carpetas correspondientes        
-loadHTML('nav', 'templates/navegacion.html');  
+loadHTML('card', 'templates/card_visita.html');  
